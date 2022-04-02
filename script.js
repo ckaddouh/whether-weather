@@ -1,3 +1,5 @@
+//<!--TYLER POTTS' CODE-->
+
 const api = {
     key: "27b36437651f4e725c0fead047ba5c9d",
     base: "https://api.openweathermap.org/data/2.5/"
